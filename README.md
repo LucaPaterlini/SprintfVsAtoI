@@ -3,7 +3,7 @@
 ## Intro
 
 I was just reviewing a solution on [exercism](https://exercism.io) when I found this interesting fact,
-my test over a function containing a fmt.Sprintf was slower then strconv.AtoI,
+my test over a function containing a fmt.Sprintf was slower than strconv.AtoI,
 while the student was having the other way around by more than the double margin.
 
 ## Wish
