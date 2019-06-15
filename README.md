@@ -14,8 +14,8 @@ would you mind sharing in the issues what your results are and motivate why they
 ```
 goos: linux
 goarch: amd64
-BenchmarkIntegerToAscii-4    	10000000	       120 ns/op
-BenchmarkIntegerToAscii2-4   	50000000	        39.0 ns/op
+BenchmarkIntegerToASCII-4    	10000000	       120 ns/op	      16 B/op	       2 allocs/op
+BenchmarkIntegerToAscii2-4   	50000000	        39.5 ns/op	       7 B/op	       0 allocs/op
 PASS
 ```
 
