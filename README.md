@@ -19,3 +19,5 @@ BenchmarkIntegerToAscii2-4   	50000000	        39.0 ns/op
 PASS
 ```
 
+My CPU is a i5 2 real cores 4 threaded.
+
